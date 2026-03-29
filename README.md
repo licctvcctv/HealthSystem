@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1ZC411x7zB
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的卫生健康系统，分为管理后台和用户网页端，可以给管理员、普通用户角色使用，包括健康视频模块、医生信息模块、在线预约模块、药品信息模块、留言板模块和系统基础模块，项目编号T076。
 
